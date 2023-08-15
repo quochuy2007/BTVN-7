@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+button{
+    margin-top: 2%;
+    height: 50px;
+    width: 100px;
+    border-radius: 3%;
+}
+#result{
+    color: blue;
+    font-size: bold;
+}
